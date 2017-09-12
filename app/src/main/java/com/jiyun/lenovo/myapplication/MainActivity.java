@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         if (BuildConfig.DEBUG) Log.d("MainActivity", "五次提交!");
-        //他妈的弄晕了。。。。。。
-        //什么情况！
+        //。。。。。。
+        //什么情况！0000000
     }
 }
