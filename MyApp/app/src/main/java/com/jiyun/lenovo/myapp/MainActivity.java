@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Log.d("MainActivity", "心心相印,印贼做父,父相伤害,害人害己");
+        Log.d("MainActivity", "心心相印,印贼做父,父相伤害,害人害己。");
     }
 }
