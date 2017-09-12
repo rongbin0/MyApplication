@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        if (BuildConfig.DEBUG) Log.d("MainActivity", "第一次提交");
+        if (BuildConfig.DEBUG) Log.d("MainActivity", "第一次提交！");
     }
 }
